@@ -11,7 +11,8 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #54D17b;
+  background: url(https://merriam-webster.com/assets/mw/images/article/art-wap-article-main/alt-5cbe297d2fd4d-6400-cb111056f04926db38460847a4b017f7@1x.jpg);
+  background-size: 100%;
 }
 ::selection{
   color: #fff;
