@@ -6,6 +6,11 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+img
+{
+  margin-left:-1800%;
+  transform: translateY(-1500%);
+}
 body{
   display: flex;
   align-items: center;
